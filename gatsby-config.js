@@ -3,10 +3,11 @@ module.exports = {
     title: `Backprop`,
     author: `Ayush Shaw`,
     description: `Blogs on building up stuff.`,
-    siteUrl: ``,
+    siteUrl: `https://ayushshaw.github.io/backprop/`,
     social: {
       twitter: `AyuKez`,
     },
+    pathPrefix: "/backprop",
   },
   plugins: [
     {
